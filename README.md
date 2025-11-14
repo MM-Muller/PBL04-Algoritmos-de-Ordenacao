@@ -42,7 +42,7 @@ Os algoritmos são aplicados a 9 conjuntos de dados diferentes, fornecidos em ar
 1.  Clone ou baixe este repositório.
 2.  Baixe os 9 arquivos `.csv` fornecidos no enunciado do trabalho.
 3.  Crie uma pasta chamada `dados` na raiz do projeto.
-4.  Coloque os 9 arquivos `.csv` dentro da pasta `dados/`.
+4.  Coloque os 9 arquivos `.csv` dentro da pasta `Data/`.
 
 ### 3. Compilação
 
